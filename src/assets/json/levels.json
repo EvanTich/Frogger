@@ -1,0 +1,293 @@
+{
+  "levels": [
+    {
+      "road": [
+        {
+          "view": "CAR1",
+          "speed": -100,
+          "number": 3
+        }, {
+          "view": "CAR2",
+          "speed": 100,
+          "number": 3
+        }, {
+          "view": "CAR3",
+          "speed": -120,
+          "number": 3
+        }, {
+          "view": "CAR4",
+          "speed": 200,
+          "number": 2
+        }, {
+          "view": "CAR5",
+          "speed": -120,
+          "number": 2
+        }
+      ],
+      "water": [
+        {
+          "type": "turtle",
+          "speed": -100,
+          "size": 3,
+          "number": 4
+        }, {
+          "type": "log",
+          "speed": 100,
+          "size": 3,
+          "number": 4
+        }, {
+          "type": "log",
+          "speed": 150,
+          "size": 7,
+          "number": 4
+        }, {
+          "type": "turtle",
+          "speed": -100,
+          "size": 2,
+          "number": 4
+        }, {
+          "type": "log",
+          "speed": 100,
+          "size": 5,
+          "number": 4,
+          "gators": false
+        }
+      ],
+      "end_gators": false,
+      "snakes": false
+    },
+    {
+      "road": [
+        {
+          "view": "CAR1",
+          "speed": -100,
+          "number": 4
+        }, {
+          "view": "CAR2",
+          "speed": 100,
+          "number": 4
+        }, {
+          "view": "CAR3",
+          "speed": -100,
+          "number": 5
+        }, {
+          "view": "CAR4",
+          "speed": 250,
+          "number": 2
+        }, {
+          "view": "CAR5",
+          "speed": -100,
+          "number": 3
+        }
+      ],
+      "water": [
+        {
+          "type": "turtle",
+          "speed": -150,
+          "size": 3,
+          "number": 4
+        }, {
+          "type": "log",
+          "speed": 100,
+          "size": 3,
+          "number": 4
+        }, {
+          "type": "log",
+          "speed": 150,
+          "size": 7,
+          "number": 4
+        }, {
+          "type": "turtle",
+          "speed": -100,
+          "size": 2,
+          "number": 4
+        }, {
+          "type": "log",
+          "speed": 100,
+          "size": 5,
+          "number": 4,
+          "gators": false
+        }
+      ],
+      "end_gators": true,
+      "snakes": false
+    },
+    {
+      "road": [
+        {
+          "view": "CAR1",
+          "speed": 100,
+          "number": 3
+        }, {
+          "view": "CAR2",
+          "speed": -100,
+          "number": 3
+        }, {
+          "view": "CAR3",
+          "speed": 120,
+          "number": 3
+        }, {
+          "view": "CAR4",
+          "speed": -200,
+          "number": 3
+        }, {
+          "view": "CAR5",
+          "speed": 120,
+          "number": 3
+        }
+      ],
+      "water": [
+        {
+          "type": "turtle",
+          "speed": 100,
+          "size": 3,
+          "number": 4
+        },
+        {
+          "type": "log",
+          "speed": -100,
+          "size": 3,
+          "number": 4
+        },
+        {
+          "type": "log",
+          "speed": -150,
+          "size": 7,
+          "number": 4
+        },
+        {
+          "type": "turtle",
+          "speed": 100,
+          "size": 2,
+          "number": 4
+        },
+        {
+          "type": "log",
+          "speed": -100,
+          "size": 5,
+          "number": 4
+        }
+      ],
+      "end_gators": true,
+      "snakes": true
+    },
+    {
+      "road": [
+        {
+          "view": "CAR1",
+          "speed": 100,
+          "number": 3
+        }, {
+          "view": "CAR2",
+          "speed": -100,
+          "number": 3
+        }, {
+          "view": "CAR3",
+          "speed": 120,
+          "number": 3
+        }, {
+          "view": "CAR4",
+          "speed": -200,
+          "number": 3
+        }, {
+          "view": "CAR5",
+          "speed": 120,
+          "number": 3
+        }
+      ],
+      "water": [
+        {
+          "type": "turtle",
+          "speed": 100,
+          "size": 3,
+          "number": 4
+        },
+        {
+          "type": "log",
+          "speed": -100,
+          "size": 3,
+          "number": 4
+        },
+        {
+          "type": "log",
+          "speed": -150,
+          "size": 7,
+          "number": 4
+        },
+        {
+          "type": "turtle",
+          "speed": 100,
+          "size": 2,
+          "number": 4
+        },
+        {
+          "type": "log",
+          "speed": -100,
+          "size": 5,
+          "number": 4
+        }
+      ],
+      "end_gators": true,
+      "snakes": true
+    },
+    {
+      "road": [
+        {
+          "view": "CAR1",
+          "speed": 100,
+          "number": 3
+        }, {
+          "view": "CAR2",
+          "speed": -100,
+          "number": 3
+        }, {
+          "view": "CAR3",
+          "speed": 120,
+          "number": 3
+        }, {
+          "view": "CAR4",
+          "speed": -200,
+          "number": 3
+        }, {
+          "view": "CAR5",
+          "speed": 120,
+          "number": 3
+        }
+      ],
+      "water": [
+        {
+          "type": "turtle",
+          "speed": 100,
+          "size": 3,
+          "number": 4
+        },
+        {
+          "type": "log",
+          "speed": -100,
+          "size": 3,
+          "number": 4
+        },
+        {
+          "type": "log",
+          "speed": -150,
+          "size": 7,
+          "number": 4
+        },
+        {
+          "type": "turtle",
+          "speed": 100,
+          "size": 2,
+          "number": 4
+        },
+        {
+          "type": "log",
+          "speed": -100,
+          "size": 5,
+          "number": 4
+        }
+      ],
+      "end_gators": true,
+      "snakes": true
+    }
+  ]
+}
